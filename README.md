@@ -1,3 +1,7 @@
+
+![Project Logo](images/MultiAgentLaptopRecommendationSystem.png)
+
+
 **Problem Statement** Purchasing a laptop can be challenging for non-technical users who might find it difficult to compare a dense mix of specifications (e.g., CPU, RAM, GPU, Storage, Display, Price) across hundreds of variants. The project aims to assist such users by capturing their requirements through natural conversation and provide real-time laptop recommendations that aligns with their purpose and budget.
 
 This is an interesting project as it showcases how a multi-agent LLM system can solve real-world decision making. From gaining user preferences through conversation, to delivering recommendations with google search grounding, this application can be easily scaled to solve similar or more complex problems across product/service categories.
@@ -9,7 +13,7 @@ This is an interesting project as it showcases how a multi-agent LLM system can 
 - Easier to integrate external tools (like Google Search) and maintain in-memory state across interactions.
  
 **Project Architecture**
-![File Structure](images/MultiAgentLaptopRecommendationSystem.png)
+![File Structure](images/project_structure.png)
 ![Workflow Diagram](images/project_workflow.png)
 
 **Major Components Explained**
