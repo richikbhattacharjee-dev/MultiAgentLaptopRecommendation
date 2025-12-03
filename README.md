@@ -13,10 +13,14 @@ This is an interesting project as it showcases how a multi-agent LLM system can 
 - Easier to integrate external tools (like Google Search) and maintain in-memory state across interactions.
  
 **Project Architecture**
+**File Structure**
 ![File Structure](images/project_structure.png)
+
+**Project Workflow**
 ![Workflow Diagram](images/project_workflow.png)
 
 **Major Components Explained**
+
 🟦  **Root Agent**
 
 The main conversational controller.
